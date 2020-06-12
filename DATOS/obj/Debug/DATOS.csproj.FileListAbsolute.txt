@@ -1,0 +1,941 @@
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\bin\Debug\DATOS.dll
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\bin\Debug\DATOS.pdb
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\bin\Debug\MODELO.dll
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\bin\Debug\MODELO.pdb
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\obj\Debug\DATOS.dll
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\obj\Debug\DATOS.pdb
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\obj\Debug\DATOS.Migrations.Version01.resources
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\obj\Debug\DATOS.csproj.GenerateResource.Cache
+C:\Users\carra\Desktop\Modulo de Seguridad\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\carra\Desktop\Modulo de Seguridad\DATOS\bin\Debug\DATOS.dll
+C:\Users\carra\Desktop\Modulo de Seguridad\DATOS\bin\Debug\DATOS.pdb
+C:\Users\carra\Desktop\Modulo de Seguridad\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\carra\Desktop\Modulo de Seguridad\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carra\Desktop\Modulo de Seguridad\DATOS\bin\Debug\MODELO.dll
+C:\Users\carra\Desktop\Modulo de Seguridad\DATOS\bin\Debug\MODELO.pdb
+C:\Users\carra\Desktop\Modulo de Seguridad\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\carra\Desktop\Modulo de Seguridad\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\carra\Desktop\Modulo de Seguridad\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carra\Desktop\Modulo de Seguridad\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\carra\Desktop\Modulo de Seguridad\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\carra\Desktop\Modulo de Seguridad\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\carra\Desktop\Modulo de Seguridad\DATOS\obj\Debug\DATOS.dll
+C:\Users\carra\Desktop\Modulo de Seguridad\DATOS\obj\Debug\DATOS.pdb
+C:\Users\carra\Desktop\Modulo de Seguridad\DATOS\obj\Debug\DATOS.Migrations.version02.resources
+C:\Users\carra\Desktop\Modulo de Seguridad\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\navegador\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\navegador\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\DATOS.dll
+C:\Users\navegador\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\DATOS.pdb
+C:\Users\navegador\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\navegador\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\navegador\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\MODELO.dll
+C:\Users\navegador\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\MODELO.pdb
+C:\Users\navegador\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\navegador\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\navegador\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\obj\Debug\DATOS.Migrations.version02.resources
+C:\Users\navegador\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\obj\Debug\DATOS.csproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\obj\Debug\DATOS.dll
+C:\Users\navegador\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\DATOS.dll
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\MODELO.dll
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\obj\Debug\DATOS.Migrations.version02.resources
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\obj\Debug\DATOS.dll
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\obj\Debug\DATOS.Migrations.version01.resources
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\obj\Debug\DATOS.Migrations.version021.resources
+C:\Users\Bruno\Desktop\5_Modelo_Seguridad\Modulo de Seguridad\DATOS\obj\Debug\DATOS.Migrations.version03.resources
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\obj\Debug\DATOS.Migrations.version02.resources
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\obj\Debug\DATOS.Migrations.version021.resources
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\obj\Debug\DATOS.Migrations.version03.resources
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\obj\Debug\DATOS.Migrations.version04.resources
+C:\Users\navegador\Desktop\Modulo de Seguridad\DATOS\obj\Debug\DATOS.Migrations.version05.resources
+C:\Users\Bruno\Desktop\ProyectoFinal\Trabajo_Campo\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Bruno\Desktop\ProyectoFinal\Trabajo_Campo\DATOS\bin\Debug\DATOS.dll
+C:\Users\Bruno\Desktop\ProyectoFinal\Trabajo_Campo\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Bruno\Desktop\ProyectoFinal\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Bruno\Desktop\ProyectoFinal\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bruno\Desktop\ProyectoFinal\Trabajo_Campo\DATOS\bin\Debug\MODELO.dll
+C:\Users\Bruno\Desktop\ProyectoFinal\Trabajo_Campo\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Bruno\Desktop\ProyectoFinal\Trabajo_Campo\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Bruno\Desktop\ProyectoFinal\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Bruno\Desktop\ProyectoFinal\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bruno\Desktop\ProyectoFinal\Trabajo_Campo\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\ProyectoFinal\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\ProyectoFinal\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Bruno\Desktop\ProyectoFinal\Trabajo_Campo\DATOS\obj\Debug\DATOS.dll
+C:\Users\Bruno\Desktop\ProyectoFinal\Trabajo_Campo\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Bruno\Desktop\ProyectoFinal\Trabajo_Campo\DATOS\obj\Debug\DATOS.Migrations.version03.resources
+C:\Users\Bruno\Desktop\ProyectoFinal\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\carra\source\repos\Trabajo_Campo\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\carra\source\repos\Trabajo_Campo\DATOS\bin\Debug\DATOS.dll
+C:\Users\carra\source\repos\Trabajo_Campo\DATOS\bin\Debug\DATOS.pdb
+C:\Users\carra\source\repos\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\carra\source\repos\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carra\source\repos\Trabajo_Campo\DATOS\bin\Debug\MODELO.dll
+C:\Users\carra\source\repos\Trabajo_Campo\DATOS\bin\Debug\MODELO.pdb
+C:\Users\carra\source\repos\Trabajo_Campo\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\carra\source\repos\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\carra\source\repos\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carra\source\repos\Trabajo_Campo\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\carra\source\repos\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\carra\source\repos\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\carra\source\repos\Trabajo_Campo\DATOS\obj\Debug\DATOS.dll
+C:\Users\carra\source\repos\Trabajo_Campo\DATOS\obj\Debug\DATOS.pdb
+C:\Users\carra\source\repos\Trabajo_Campo\DATOS\obj\Debug\DATOS.Migrations.version09.resources
+C:\Users\carra\source\repos\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Bruno\source\repos\Trabajo_Campo\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Bruno\source\repos\Trabajo_Campo\DATOS\bin\Debug\DATOS.dll
+C:\Users\Bruno\source\repos\Trabajo_Campo\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Bruno\source\repos\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Bruno\source\repos\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bruno\source\repos\Trabajo_Campo\DATOS\bin\Debug\MODELO.dll
+C:\Users\Bruno\source\repos\Trabajo_Campo\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Bruno\source\repos\Trabajo_Campo\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Bruno\source\repos\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Bruno\source\repos\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bruno\source\repos\Trabajo_Campo\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Bruno\source\repos\Trabajo_Campo\DATOS\obj\Debug\DATOS.dll
+C:\Users\Bruno\source\repos\Trabajo_Campo\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Bruno\source\repos\Trabajo_Campo\DATOS\obj\Debug\DATOS.Migrations.version11120.resources
+C:\Users\Bruno\source\repos\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\navegador\Desktop\Trabajo_Campo\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\navegador\Desktop\Trabajo_Campo\DATOS\bin\Debug\DATOS.dll
+C:\Users\navegador\Desktop\Trabajo_Campo\DATOS\bin\Debug\DATOS.pdb
+C:\Users\navegador\Desktop\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\navegador\Desktop\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\navegador\Desktop\Trabajo_Campo\DATOS\bin\Debug\MODELO.dll
+C:\Users\navegador\Desktop\Trabajo_Campo\DATOS\bin\Debug\MODELO.pdb
+C:\Users\navegador\Desktop\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\navegador\Desktop\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\navegador\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.dll
+C:\Users\navegador\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.pdb
+C:\Users\navegador\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.Migrations._10.resources
+C:\Users\navegador\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.GenerateResource.Cache
+C:\Users\carra\Desktop\Trabajo_Campo\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\carra\Desktop\Trabajo_Campo\DATOS\bin\Debug\DATOS.dll
+C:\Users\carra\Desktop\Trabajo_Campo\DATOS\bin\Debug\DATOS.pdb
+C:\Users\carra\Desktop\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\carra\Desktop\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carra\Desktop\Trabajo_Campo\DATOS\bin\Debug\MODELO.dll
+C:\Users\carra\Desktop\Trabajo_Campo\DATOS\bin\Debug\MODELO.pdb
+C:\Users\carra\Desktop\Trabajo_Campo\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\carra\Desktop\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\carra\Desktop\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carra\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\carra\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\carra\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\carra\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.dll
+C:\Users\carra\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.pdb
+C:\Users\navegador\Desktop\ModeloSeguridad\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\navegador\Desktop\ModeloSeguridad\DATOS\bin\Debug\DATOS.dll
+C:\Users\navegador\Desktop\ModeloSeguridad\DATOS\bin\Debug\DATOS.pdb
+C:\Users\navegador\Desktop\ModeloSeguridad\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\navegador\Desktop\ModeloSeguridad\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\navegador\Desktop\ModeloSeguridad\DATOS\bin\Debug\MODELO.dll
+C:\Users\navegador\Desktop\ModeloSeguridad\DATOS\bin\Debug\MODELO.pdb
+C:\Users\navegador\Desktop\ModeloSeguridad\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\navegador\Desktop\ModeloSeguridad\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\navegador\Desktop\ModeloSeguridad\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\ModeloSeguridad\DATOS\obj\Debug\DATOS.Migrations._2.resources
+C:\Users\navegador\Desktop\ModeloSeguridad\DATOS\obj\Debug\DATOS.Migrations._4.resources
+C:\Users\navegador\Desktop\ModeloSeguridad\DATOS\obj\Debug\DATOS.Migrations._6.resources
+C:\Users\navegador\Desktop\ModeloSeguridad\DATOS\obj\Debug\DATOS.Migrations._112.resources
+C:\Users\navegador\Desktop\ModeloSeguridad\DATOS\obj\Debug\DATOS.csproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\ModeloSeguridad\DATOS\obj\Debug\DATOS.dll
+C:\Users\navegador\Desktop\ModeloSeguridad\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Debug\MODELO.dll
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.pdb
+C:\Users\carra\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.Migrations.test10.resources
+C:\Users\carra\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\lu\Downloads\Trabajo_Campo\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\lu\Downloads\Trabajo_Campo\DATOS\bin\Debug\DATOS.dll
+C:\Users\lu\Downloads\Trabajo_Campo\DATOS\bin\Debug\DATOS.pdb
+C:\Users\lu\Downloads\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\lu\Downloads\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lu\Downloads\Trabajo_Campo\DATOS\bin\Debug\MODELO.dll
+C:\Users\lu\Downloads\Trabajo_Campo\DATOS\bin\Debug\MODELO.pdb
+C:\Users\lu\Downloads\Trabajo_Campo\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\lu\Downloads\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\lu\Downloads\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lu\Downloads\Trabajo_Campo\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\lu\Downloads\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\lu\Downloads\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\lu\Downloads\Trabajo_Campo\DATOS\obj\Debug\DATOS.dll
+C:\Users\lu\Downloads\Trabajo_Campo\DATOS\obj\Debug\DATOS.pdb
+C:\Users\lu\Downloads\Trabajo_Campo\DATOS\obj\Debug\DATOS.Migrations.wdd.resources
+C:\Users\lu\Downloads\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\Trabajo_Campo\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\bruno\Desktop\Trabajo_Campo\DATOS\bin\Debug\DATOS.dll
+C:\Users\bruno\Desktop\Trabajo_Campo\DATOS\bin\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\bruno\Desktop\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bruno\Desktop\Trabajo_Campo\DATOS\bin\Debug\MODELO.dll
+C:\Users\bruno\Desktop\Trabajo_Campo\DATOS\bin\Debug\MODELO.pdb
+C:\Users\bruno\Desktop\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\bruno\Desktop\Trabajo_Campo\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bruno\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.Migrations.asdd.resources
+C:\Users\bruno\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.GenerateResource.Cache
+C:\Users\bruno\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.dll
+C:\Users\bruno\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.Migrations.asdasdsd.resources
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\bruno\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\DATOS.dll
+C:\Users\bruno\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\bruno\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bruno\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\MODELO.dll
+C:\Users\bruno\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\MODELO.pdb
+C:\Users\bruno\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\bruno\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bruno\Desktop\Trabajo_CampoS2v2\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\Trabajo_CampoS2v2\DATOS\obj\Debug\DATOS.dll
+C:\Users\bruno\Desktop\Trabajo_CampoS2v2\DATOS\obj\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\Trabajo_CampoS2v2\DATOS\obj\Debug\DATOS.Migrations.elnombre.resources
+C:\Users\bruno\Desktop\Trabajo_CampoS2v2\DATOS\obj\Debug\DATOS.csproj.GenerateResource.Cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\MODELO.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\DATOS\obj\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\DATOS\obj\Debug\DATOS.Migrations.lolete.resources
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\bruno\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\DATOS.dll
+C:\Users\bruno\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\bruno\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bruno\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\MODELO.dll
+C:\Users\bruno\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\MODELO.pdb
+C:\Users\bruno\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\bruno\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bruno\Desktop\Trabajo_CampoS2v3\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\Trabajo_CampoS2v3\DATOS\obj\Debug\DATOS.dll
+C:\Users\bruno\Desktop\Trabajo_CampoS2v3\DATOS\obj\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\Trabajo_CampoS2v3\DATOS\obj\Debug\DATOS.Migrations.name1.resources
+C:\Users\bruno\Desktop\Trabajo_CampoS2v3\DATOS\obj\Debug\DATOS.csproj.GenerateResource.Cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\MODELO.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v3\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v3\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v3\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v3\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v3\DATOS\obj\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v3\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v3\DATOS\obj\Debug\DATOS.Migrations.cocacola.resources
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v3\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\DATOS\bin\Debug\DATOS.dll
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\DATOS\bin\Debug\DATOS.pdb
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\DATOS\bin\Debug\MODELO.dll
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\DATOS\bin\Debug\MODELO.pdb
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\DATOS\obj\Debug\DATOS.dll
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\DATOS\obj\Debug\DATOS.pdb
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\DATOS\obj\Debug\DATOS.Migrations.v5.resources
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v5\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v5\DATOS\bin\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v5\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v5\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v5\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v5\DATOS\bin\Debug\MODELO.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v5\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v5\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v5\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v5\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v5\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v5\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v5\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v5\DATOS\obj\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v5\DATOS\obj\Debug\DATOS.pdb
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\DATOS.dll
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\DATOS.pdb
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\MODELO.dll
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\MODELO.pdb
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\obj\Debug\DATOS.dll
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\obj\Debug\DATOS.pdb
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\obj\Debug\DATOS.Migrations.mig1.resources
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\MODELO.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\obj\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\obj\Debug\DATOS.Migrations.lol.resources
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\obj\Debug\DATOS.Migrations.asas.resources
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\obj\Debug\DATOS.Migrations.asd.resources
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v62\Trabajo_CampoS2v6\DATOS\obj\Debug\DATOS.Migrations.asdas.resources
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\DATOS.dll
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\DATOS.pdb
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\MODELO.dll
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\MODELO.pdb
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.dll
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.pdb
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\DATOS\bin\Debug\DATOS.dll
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\DATOS\bin\Debug\DATOS.pdb
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\DATOS\bin\Debug\MODELO.dll
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\DATOS\bin\Debug\MODELO.pdb
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.Migrations.lucia.resources
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.dll
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\MODELO.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.Migrations.lolete.resources
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.Migrations.lolet.resources
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.Migrations.los.resources
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.Migrations.upd.resources
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.Migrations.lucia.resources
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.Migrations._string.resources
+C:\Users\Fausto\Desktop\LUCIA\Trabajo_CampoS2v7\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Fausto\Desktop\LUCIA\Trabajo_CampoS2v7\DATOS\bin\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\LUCIA\Trabajo_CampoS2v7\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\LUCIA\Trabajo_CampoS2v7\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Fausto\Desktop\LUCIA\Trabajo_CampoS2v7\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\LUCIA\Trabajo_CampoS2v7\DATOS\bin\Debug\MODELO.dll
+C:\Users\Fausto\Desktop\LUCIA\Trabajo_CampoS2v7\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Fausto\Desktop\LUCIA\Trabajo_CampoS2v7\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Fausto\Desktop\LUCIA\Trabajo_CampoS2v7\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Fausto\Desktop\LUCIA\Trabajo_CampoS2v7\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\LUCIA\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\LUCIA\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Fausto\Desktop\LUCIA\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\LUCIA\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\LUCIA\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\LUCIA\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.Migrations.vlucias.resources
+C:\Users\Fausto\Desktop\LUCIA\Trabajo_CampoS2v7\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\DATOS.dll
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\DATOS.pdb
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\MODELO.dll
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\MODELO.pdb
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.dll
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.pdb
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.Migrations._0210remito.resources
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.Migrations.agregaremito.resources
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.Migrations.remitoedit.resources
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.Migrations.nose.resources
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.Migrations.materialesrelacion.resources
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.Migrations.okjk.resources
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.Migrations.nullista.resources
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\MODELO.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.Migrations.vbkj.resources
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\DATOS.dll
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\MODELO.dll
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\MODELO.pdb
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.dll
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.Migrations.holajorge.resources
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.csproj.GenerateResource.Cache
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.Migrations.holajorge2.resources
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\DATOS\obj\Debug\DATOS.Migrations.holajorge21.resources
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\bin\Debug\DATOS.dll
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\bin\Debug\DATOS.pdb
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\bin\Debug\MODELO.dll
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\bin\Debug\MODELO.pdb
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.dll
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.pdb
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.Migrations.ghj.resources
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.Migrations.remitos.resources
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.Migrations.fghkl.resources
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.Migrations.hjkkjk.resources
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.Migrations.sfsffds.resources
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.Migrations.hhh.resources
+C:\Users\lu\Desktop\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.Migrations.remitoFINAl.resources
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\DATOS\bin\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\DATOS\bin\Debug\MODELO.dll
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.Migrations.sdasda.resources
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\DATOS\bin\Debug\DATOS.dll
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\DATOS\bin\Debug\DATOS.pdb
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\DATOS\bin\Debug\MODELO.dll
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\DATOS\bin\Debug\MODELO.pdb
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.dll
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.pdb
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.Migrations.mig1.resources
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\DATOS\obj\Debug\DATOS.Migrations.mig2.resources
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\DATOS\bin\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\DATOS\bin\Debug\MODELO.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.Migrations.owen.resources
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\MODELO.dll
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.Migrations.asd.resources
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.Migrations._as.resources
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.Migrations.asd1.resources
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.Migrations.asd2.resources
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.Migrations.asaaa.resources
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.Migrations.asdasda.resources
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.Migrations.asdasdasd.resources
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.Migrations.version01.resources
+C:\Users\Fausto\Desktop\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.Migrations.aaa.resources
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\DATOS.dll
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\DATOS.pdb
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\MODELO.dll
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\MODELO.pdb
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.dll
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.pdb
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.Migrations.mig1.resources
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\lu\Desktop\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\lu\Desktop\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll
+C:\Users\lu\Desktop\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.pdb
+C:\Users\lu\Desktop\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\lu\Desktop\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lu\Desktop\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll
+C:\Users\lu\Desktop\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.pdb
+C:\Users\lu\Desktop\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\lu\Desktop\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\lu\Desktop\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lu\Desktop\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\lu\Desktop\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\lu\Desktop\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\lu\Desktop\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.dll
+C:\Users\lu\Desktop\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.pdb
+C:\Users\lu\Desktop\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations.proveedores.resources
+C:\Users\lu\Desktop\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\lu\Desktop\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations.errorhora.resources
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.pdb
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.dll
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations.nombre.resources
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.GenerateResource.Cache
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations.asddsa.resources
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations.asd.resources
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.pdb
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.pdb
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.dll
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.pdb
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations.prov.resources
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.pdb
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.dll
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.pdb
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations.asd.resources
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.GenerateResource.Cache
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations.asdh.resources
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations._11.resources
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations._111.resources
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations._22.resources
+C:\Users\Fausto\Desktop\Viaje\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Fausto\Desktop\Viaje\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Viaje\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Viaje\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Fausto\Desktop\Viaje\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\Viaje\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll
+C:\Users\Fausto\Desktop\Viaje\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Fausto\Desktop\Viaje\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Fausto\Desktop\Viaje\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Fausto\Desktop\Viaje\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\Viaje\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\Viaje\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\Viaje\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\Viaje\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\Viaje\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations.asdasdsd.resources
+C:\Users\Fausto\Desktop\Viaje\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.pdb
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.pdb
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations.asdasdsd.resources
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.dll
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\28-10-2019 Validada\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Fausto\Desktop\28-10-2019 Validada\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\28-10-2019 Validada\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\28-10-2019 Validada\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Fausto\Desktop\28-10-2019 Validada\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\28-10-2019 Validada\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll
+C:\Users\Fausto\Desktop\28-10-2019 Validada\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Fausto\Desktop\28-10-2019 Validada\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Fausto\Desktop\28-10-2019 Validada\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Fausto\Desktop\28-10-2019 Validada\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\28-10-2019 Validada\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\28-10-2019 Validada\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\28-10-2019 Validada\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\28-10-2019 Validada\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\28-10-2019 Validada\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations.adasd.resources
+C:\Users\Fausto\Desktop\28-10-2019 Validada\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\facuu\Downloads\F3rC0n0\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\facuu\Downloads\F3rC0n0\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll
+C:\Users\facuu\Downloads\F3rC0n0\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.pdb
+C:\Users\facuu\Downloads\F3rC0n0\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\facuu\Downloads\F3rC0n0\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\facuu\Downloads\F3rC0n0\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll
+C:\Users\facuu\Downloads\F3rC0n0\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.pdb
+C:\Users\facuu\Downloads\F3rC0n0\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\facuu\Downloads\F3rC0n0\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\facuu\Downloads\F3rC0n0\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\facuu\Downloads\F3rC0n0\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\facuu\Downloads\F3rC0n0\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations.adasd.resources
+C:\Users\facuu\Downloads\F3rC0n0\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\facuu\Downloads\F3rC0n0\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\facuu\Downloads\F3rC0n0\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.dll
+C:\Users\facuu\Downloads\F3rC0n0\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.pdb
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.pdb
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.pdb
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations.adasd.resources
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.GenerateResource.Cache
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.dll
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations.lolas1wssa.resources
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations.asdadasdq.resources
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.dll
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\DATOS.pdb
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.pdb
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.dll
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.pdb
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.Migrations.mig1.resources
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\Trabajo_CampoS4v1\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.dll
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.pdb
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.dll
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.pdb
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.Migrations.mig1.resources
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.dll
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.dll
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.Migrations.brunomarak.resources
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.Migrations.hjkq.resources
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.Migrations.ADASADQ.resources
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.dll
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.pdb
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.dll
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.pdb
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.dll
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.pdb
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.Migrations.ultimaver.resources
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\bin\Debug\EPPlus.dll
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\bin\Debug\EPPlus.xml
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.Migrations.cambiomodelo.resources
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.dll
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.pdb
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\bin\Debug\EPPlus.dll
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.dll
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.pdb
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\bin\Debug\EPPlus.xml
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.dll
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.pdb
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.Migrations.grafica.resources
+C:\Users\lu\Desktop\solo_graficar\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\bin\Debug\EPPlus.dll
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.dll
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\bin\Debug\EPPlus.xml
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.Migrations.asasdq.resources
+C:\Users\Fausto\Desktop\TODO_TERMINADO_PAPÁ(falta validar form comprasvsventas)\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\bin\Debug\EPPlus.dll
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.dll
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\bin\Debug\EPPlus.xml
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.Migrations.asasdq.resources
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.dll
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.pdb
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.Migrations.aqlosq.resources
+C:\Users\Fausto\Desktop\a validar testers + probar queryt\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.Migrations.adqweqs.resources
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.dll
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.pdb
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\bin\Debug\EPPlus.dll
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.dll
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.pdb
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\bin\Debug\EPPlus.xml
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.dll
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.pdb
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.Migrations.Final.resources
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.dll.config
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.dll
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.dll
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\bin\Debug\EPPlus.dll
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.dll
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.pdb
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\bin\Debug\MODELO.dll.config
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.xml
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\bin\Debug\EPPlus.xml
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.Migrations.Final.resources
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csproj.GenerateResource.cache
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.dll
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\DATOS\obj\Debug\DATOS.pdb

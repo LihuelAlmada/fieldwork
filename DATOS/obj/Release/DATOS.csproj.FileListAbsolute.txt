@@ -1,0 +1,17 @@
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Release\DATOS.dll.config
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Release\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Release\DATOS.pdb
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Release\EntityFramework.dll
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Release\MODELO.dll
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Release\MODELO.pdb
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Release\MODELO.dll.config
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Release\EntityFramework.xml
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\obj\Release\DATOS.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\obj\Release\DATOS.Migrations.inicial.resources
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\obj\Release\DATOS.csproj.GenerateResource.cache
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\obj\Release\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\obj\Release\DATOS.csproj.CopyComplete
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\obj\Release\DATOS.dll
+C:\Users\Fausto\Desktop\Trabajo_Campo\DATOS\obj\Release\DATOS.pdb

@@ -1,0 +1,58 @@
+use [DATOS.MODELO SEGURIDAD]
+
+
+insert into Permiso values 
+
+('Agregar','frmUsuario','Agregar Usuario'),
+
+('Modificar','frmUsuario','Modificar Usuario'),
+
+('Eliminar','frmUsuario','Eliminar Usuario'),
+
+('Resetear Clave','frmUsuario','Resetear Clave'),
+
+
+
+('Agregar','frmGrupo','Agregar Grupo'),
+
+('Modificar','frmGrupo','Modificar Grupo'),
+
+('Eliminar','frmGrupo','Eliminar Grupo'),
+
+('Consultar','frmGrupo','Consultar Grupo'),
+
+
+
+('Agregar','frmVenta','Agregar Venta'),
+
+('Modificar','frmVenta','Modificar Venta'),
+
+('Eliminar','frmVenta','Eliminar Venta'),
+
+('Consultar','frmVenta','Consultar Venta'),
+
+('Exportar','frmVenta','Exportar Venta'),
+
+
+
+('Agregar','frmCompra','Agregar Compra'),
+
+('Modificar ','frmCompra','Modificar Compra'),
+
+('Eliminar ','frmCompra','Eliminar Compra'),
+
+('Consultar ','frmCompra','Consultar Compra'),
+
+('Exportar ','frmCompra','Exportar Compra'),
+
+
+
+('Agregar','frmStock','Agregar Stock'),
+
+('Modificar','frmStock','Modificar Stock'),
+
+('Eliminar','frmStock','Eliminar Stock'),
+
+('Consultar','frmStock','Consultar Stock'),
+
+('Exportar','frmStock','Exportar Stock')

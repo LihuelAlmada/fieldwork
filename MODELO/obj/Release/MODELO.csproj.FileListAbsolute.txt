@@ -1,0 +1,12 @@
+C:\Users\Fausto\Desktop\Trabajo_Campo\MODELO\bin\Release\MODELO.dll.config
+C:\Users\Fausto\Desktop\Trabajo_Campo\MODELO\bin\Release\MODELO.dll
+C:\Users\Fausto\Desktop\Trabajo_Campo\MODELO\bin\Release\MODELO.pdb
+C:\Users\Fausto\Desktop\Trabajo_Campo\MODELO\bin\Release\EntityFramework.dll
+C:\Users\Fausto\Desktop\Trabajo_Campo\MODELO\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Fausto\Desktop\Trabajo_Campo\MODELO\bin\Release\EntityFramework.xml
+C:\Users\Fausto\Desktop\Trabajo_Campo\MODELO\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Fausto\Desktop\Trabajo_Campo\MODELO\obj\Release\MODELO.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\Trabajo_Campo\MODELO\obj\Release\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\Fausto\Desktop\Trabajo_Campo\MODELO\obj\Release\MODELO.csproj.CopyComplete
+C:\Users\Fausto\Desktop\Trabajo_Campo\MODELO\obj\Release\MODELO.dll
+C:\Users\Fausto\Desktop\Trabajo_Campo\MODELO\obj\Release\MODELO.pdb

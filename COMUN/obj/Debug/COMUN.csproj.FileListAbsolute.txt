@@ -1,0 +1,178 @@
+C:\Users\Ing\Downloads\Abrir Forms\Abrir Forms\COMUN\obj\Debug\COMUN.csprojResolveAssemblyReference.cache
+D:\Google Drive\PE\PROGRAMACION I\EJEMPLOS WINFORM C#\Abrir Forms\Abrir Forms\COMUN\obj\Debug\COMUN.csprojResolveAssemblyReference.cache
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\EjemploUno\COMUN\bin\Debug\COMUN.dll
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\EjemploUno\COMUN\bin\Debug\COMUN.pdb
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\EjemploUno\COMUN\obj\Debug\COMUN.csprojResolveAssemblyReference.cache
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\EjemploUno\COMUN\obj\Debug\COMUN.dll
+C:\Users\Ing\Documents\Visual Studio 2012\Projects\EjemploUno\COMUN\obj\Debug\COMUN.pdb
+Z:\POO 2018\FinalProgramacion1\COMUN\bin\Debug\COMUN.dll
+Z:\POO 2018\FinalProgramacion1\COMUN\bin\Debug\COMUN.pdb
+Z:\POO 2018\FinalProgramacion1\COMUN\obj\Debug\COMUN.csprojResolveAssemblyReference.cache
+Z:\POO 2018\FinalProgramacion1\COMUN\obj\Debug\COMUN.dll
+Z:\POO 2018\FinalProgramacion1\COMUN\obj\Debug\COMUN.pdb
+C:\Users\carra\Desktop\Trabajo_Campo\COMUN\bin\Debug\COMUN.dll
+C:\Users\carra\Desktop\Trabajo_Campo\COMUN\bin\Debug\COMUN.pdb
+C:\Users\carra\Desktop\Trabajo_Campo\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\carra\Desktop\Trabajo_Campo\COMUN\obj\Debug\COMUN.csproj.CoreCompileInputs.cache
+C:\Users\carra\Desktop\Trabajo_Campo\COMUN\obj\Debug\COMUN.dll
+C:\Users\carra\Desktop\Trabajo_Campo\COMUN\obj\Debug\COMUN.pdb
+C:\Users\lu\Downloads\Trabajo_Campo\COMUN\bin\Debug\COMUN.dll
+C:\Users\lu\Downloads\Trabajo_Campo\COMUN\bin\Debug\COMUN.pdb
+C:\Users\lu\Downloads\Trabajo_Campo\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\lu\Downloads\Trabajo_Campo\COMUN\obj\Debug\COMUN.csproj.CoreCompileInputs.cache
+C:\Users\lu\Downloads\Trabajo_Campo\COMUN\obj\Debug\COMUN.dll
+C:\Users\lu\Downloads\Trabajo_Campo\COMUN\obj\Debug\COMUN.pdb
+C:\Users\Fausto\Desktop\Trabajo_Campo\COMUN\bin\Debug\COMUN.dll
+C:\Users\Fausto\Desktop\Trabajo_Campo\COMUN\bin\Debug\COMUN.pdb
+C:\Users\Fausto\Desktop\Trabajo_Campo\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\Trabajo_Campo\COMUN\obj\Debug\COMUN.csproj.CoreCompileInputs.cache
+C:\Users\Fausto\Desktop\Trabajo_Campo\COMUN\obj\Debug\COMUN.dll
+C:\Users\Fausto\Desktop\Trabajo_Campo\COMUN\obj\Debug\COMUN.pdb
+C:\Users\bruno\Desktop\Trabajo_Campo\COMUN\bin\Debug\COMUN.dll
+C:\Users\bruno\Desktop\Trabajo_Campo\COMUN\bin\Debug\COMUN.pdb
+C:\Users\bruno\Desktop\Trabajo_Campo\COMUN\obj\Debug\COMUN.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\Trabajo_Campo\COMUN\obj\Debug\COMUN.dll
+C:\Users\bruno\Desktop\Trabajo_Campo\COMUN\obj\Debug\COMUN.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\COMUN\bin\Debug\COMUN.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\COMUN\bin\Debug\COMUN.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\COMUN\obj\Debug\COMUN.csproj.CoreCompileInputs.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\COMUN\obj\Debug\COMUN.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v2\COMUN\obj\Debug\COMUN.pdb
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\COMUN\bin\Debug\COMUN.dll
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\COMUN\bin\Debug\COMUN.pdb
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\COMUN\obj\Debug\COMUN.csproj.CoreCompileInputs.cache
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\COMUN\obj\Debug\COMUN.dll
+C:\Users\lu\Downloads\Trabajo_CampoS2v5\Trabajo_CampoS2v5\COMUN\obj\Debug\COMUN.pdb
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\COMUN\bin\Debug\COMUN.dll
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\COMUN\bin\Debug\COMUN.pdb
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\COMUN\obj\Debug\COMUN.csproj.CoreCompileInputs.cache
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\COMUN\obj\Debug\COMUN.dll
+C:\Users\facuu\Downloads\Trabajo_CampoS2v62\Trabajo_CampoS2v6\COMUN\obj\Debug\COMUN.pdb
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\COMUN\bin\Debug\COMUN.dll
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\COMUN\bin\Debug\COMUN.pdb
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\COMUN\obj\Debug\COMUN.csproj.CoreCompileInputs.cache
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\COMUN\obj\Debug\COMUN.dll
+C:\Users\lu\Desktop\Trabajo_CampoS2v7\COMUN\obj\Debug\COMUN.pdb
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\COMUN\bin\Debug\COMUN.dll
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\COMUN\bin\Debug\COMUN.pdb
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\COMUN\obj\Debug\COMUN.csproj.CoreCompileInputs.cache
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\COMUN\obj\Debug\COMUN.dll
+C:\Users\ferfr\Desktop\Nueva carpeta\Trabajo_CampoS2V7(16_09_lucia)\Trabajo_CampoS2v7\COMUN\obj\Debug\COMUN.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\COMUN\bin\Debug\COMUN.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\COMUN\bin\Debug\COMUN.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\COMUN\obj\Debug\COMUN.csproj.CoreCompileInputs.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\COMUN\obj\Debug\COMUN.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS2v7\COMUN\obj\Debug\COMUN.pdb
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\COMUN\bin\Debug\COMUN.dll
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\COMUN\bin\Debug\COMUN.pdb
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\COMUN\obj\Debug\COMUN.dll
+C:\Users\miner.DESKTOP-M901PTL\Desktop\Trabajo_CampoS3v1\COMUN\obj\Debug\COMUN.pdb
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\COMUN\bin\Debug\COMUN.dll
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\COMUN\bin\Debug\COMUN.pdb
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\COMUN\obj\Debug\COMUN.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\COMUN\obj\Debug\COMUN.dll
+C:\Users\bruno\Desktop\Trabajo_CampoS3v1\COMUN\obj\Debug\COMUN.pdb
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\COMUN\bin\Debug\COMUN.dll
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\COMUN\bin\Debug\COMUN.pdb
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\COMUN\obj\Debug\COMUN.csproj.CoreCompileInputs.cache
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\COMUN\obj\Debug\COMUN.dll
+C:\Users\Fausto\Desktop\LOLETEEE\Trabajo_CampoS3v2\COMUN\obj\Debug\COMUN.pdb
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\COMUN\bin\Debug\COMUN.dll
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\COMUN\bin\Debug\COMUN.pdb
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\COMUN\obj\Debug\COMUN.dll
+C:\Users\facuu\Downloads\Trabajo_CampoS3CARREA2\Trabajo_CampoS3v2\COMUN\obj\Debug\COMUN.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\COMUN\bin\Debug\COMUN.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\COMUN\bin\Debug\COMUN.pdb
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\COMUN\obj\Debug\COMUN.dll
+C:\Users\Fausto\Desktop\Trabajo_CampoS3v4\COMUN\obj\Debug\COMUN.pdb
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\COMUN\bin\Debug\COMUN.dll
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\COMUN\bin\Debug\COMUN.pdb
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\COMUN\obj\Debug\COMUN.dll
+C:\Users\facuu\Downloads\10_11\m0rta pt\Trabajo_CampoS3v4\COMUN\obj\Debug\COMUN.pdb
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\bin\Debug\COMUN.dll
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\bin\Debug\COMUN.pdb
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.dll
+C:\Users\Fausto\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.pdb
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\bin\Debug\COMUN.dll
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\bin\Debug\COMUN.pdb
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.dll
+C:\Users\bruno\Desktop\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.pdb
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\bin\Debug\COMUN.dll
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\bin\Debug\COMUN.pdb
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.csproj.CoreCompileInputs.cache
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.dll
+C:\Users\lu\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.pdb
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\bin\Debug\COMUN.dll
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\bin\Debug\COMUN.pdb
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.dll
+C:\Users\bruno\Desktop\24_10\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.pdb
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\bin\Debug\COMUN.dll
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\bin\Debug\COMUN.pdb
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.dll
+C:\Users\facuu\Downloads\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.pdb
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\bin\Debug\COMUN.dll
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\bin\Debug\COMUN.pdb
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.dll
+C:\Users\navegador\Downloads\29-10-2019 Validado ✓(el mortas)\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.pdb
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\bin\Debug\COMUN.dll
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\bin\Debug\COMUN.pdb
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.dll
+C:\Users\Fausto\Desktop\29-10-2019 Validado ✓(el mortas)\Trabajo de Diploma\Trabajo_CampoS4v1\COMUN\obj\Debug\COMUN.pdb
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\COMUN\bin\Debug\COMUN.dll
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\COMUN\bin\Debug\COMUN.pdb
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\COMUN\obj\Debug\COMUN.dll
+C:\Users\facuu\Downloads\02-11-2019 PP\02-11-2019 PP\Trabajo de Diploma\04-11-19 (vista arreglada)\Trabajo_de_Diploma\COMUN\obj\Debug\COMUN.pdb
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\COMUN\bin\Debug\COMUN.dll
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\COMUN\bin\Debug\COMUN.pdb
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\COMUN\obj\Debug\COMUN.dll
+C:\Users\Fausto\Desktop\06-11-19 (vista ready)\Trabajo_de_Diploma\COMUN\obj\Debug\COMUN.pdb
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\COMUN\bin\Debug\COMUN.dll
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\COMUN\bin\Debug\COMUN.pdb
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\COMUN\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\COMUN\bin\Debug\EPPlus.dll
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\COMUN\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\COMUN\bin\Debug\EPPlus.xml
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\COMUN\obj\Debug\COMUN.csproj.CopyComplete
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\COMUN\obj\Debug\COMUN.dll
+C:\Users\miner.DESKTOP-M901PTL\Desktop\14-11-2019 casi listo perro\Trabajo_de_Diploma\COMUN\obj\Debug\COMUN.pdb
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\COMUN\bin\Debug\COMUN.dll
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\COMUN\bin\Debug\COMUN.pdb
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\COMUN\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\COMUN\bin\Debug\EPPlus.dll
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\COMUN\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\COMUN\bin\Debug\EPPlus.xml
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\COMUN\obj\Debug\COMUN.csproj.CopyComplete
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\COMUN\obj\Debug\COMUN.dll
+C:\Users\lu\Desktop\ASDASD\18-11-2019 - faus\Trabajo_de_Diploma\COMUN\obj\Debug\COMUN.pdb
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\COMUN\bin\Debug\COMUN.dll
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\COMUN\bin\Debug\COMUN.pdb
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\COMUN\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\COMUN\bin\Debug\EPPlus.dll
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\COMUN\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\COMUN\bin\Debug\EPPlus.xml
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\COMUN\obj\Debug\COMUN.csprojAssemblyReference.cache
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\COMUN\obj\Debug\COMUN.csproj.CopyComplete
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\COMUN\obj\Debug\COMUN.dll
+C:\Users\Lihuel\Desktop\Estudio\Facultad\Viejo\Trabajo_de_Diploma\COMUN\obj\Debug\COMUN.pdb
